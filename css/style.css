@@ -157,4 +157,39 @@ ul {
   font-family: Roboto;
   font-style: 400px;
   font-weight: 700px;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #000000;
+}
+
+.our-team {
+  background-color: #f5f4fa;
+}
+
+.heading-our-team {
+  font-family: Roboto;
+  font-style: 400px;
+  font-weight: 700px;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #000000;
+}
+
+.headign-team {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #212121;
+}
+
+.paragraph-team {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #757575;
 }
