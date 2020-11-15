@@ -1,3 +1,30 @@
 body {
   background-color: #ffffff;
+  color: #000000;
+  font-family: Roboto, sans-serif;
+}
+
+.logo a {
+  font-family: Raleway;
+  font-style: 400px;
+  font-weight: 700px;
+  font-size: 26px;
+  line-height: 31px;
+  color: black;
+}
+
+.name-logo {
+  color: #2196f3;
+}
+
+.nav-list a {
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
+}
+
+.nav-contacts a {
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
 }
