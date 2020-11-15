@@ -193,3 +193,48 @@ ul {
   line-height: 19px;
   color: #757575;
 }
+
+.filters {
+}
+
+.filter-1 {
+  font-family: Roboto;
+  font-style: 400px;
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+  color: #ffffff;
+}
+
+.filter-2 {
+  font-family: Roboto;
+  font-style: 400;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.filter-3 {
+  font-family: Roboto;
+  font-style: 400;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.filter-4 {
+  font-family: Roboto;
+  font-style: 400;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.filter-5 {
+  font-family: Roboto;
+  font-style: 400;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
