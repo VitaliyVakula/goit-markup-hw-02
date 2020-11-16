@@ -4,6 +4,15 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+:root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+  --logo-color: #000000;
+  --primary-bg-color: #ffffff;
+  --bg-color: #2f303a;
+}
+
 a {
   text-decoration: none;
 }
