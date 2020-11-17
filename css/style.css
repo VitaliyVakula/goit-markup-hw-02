@@ -119,6 +119,7 @@ a {
   line-height: 1.36;
   text-align: center;
   color: var(--primary-white-color);
+  text-transform: uppercase;
 }
 
 /* main */
