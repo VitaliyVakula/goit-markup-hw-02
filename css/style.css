@@ -13,6 +13,8 @@
   --title-text-color: #757575;
   --acccent-color: #2196f3;
   --primary-bg-color: #ffffff;
+  --primary-white-color: #ffffff;
+  --primary-bt-color: #f5f4fa;
 }
 
 body {
@@ -32,9 +34,23 @@ a {
 .list a:focus {
   color: var(--acccent-color);
 }
-
+/* Логотип Шапка */
 .web {
   color: var(--acccent-color);
+}
+
+.logo {
+  color: var(--primary-text-color);
+}
+
+/* Логотип Футер */
+
+.web-footer {
+  color: var(--acccent-color);
+}
+
+.studio-footer {
+  color: var(--primary-white-color);
 }
 
 /* site nav */
@@ -43,8 +59,12 @@ a {
   color: var(--primary-text-color);
 }
 
-.site-nav .link {
+.site-nav .link.curent {
   color: var(--acccent-color);
+}
+
+.auth-nav a {
+  color: var(--title-text-color);
 }
 
 /* Section */
@@ -59,12 +79,19 @@ a {
   color: var(--primary-text-color);
 }
 
+/* Button */
+
 .button {
-  color: var(--primary-bg-color);
+  color: var(--primary-text-color);
+  background-color: var(--primary-white-color);
+}
+
+.button.primary {
+  color: var(--primary-white-color);
   background-color: var(--acccent-color);
 }
 
-.button-link {
-  background: #f5f4fa;
-  border-radius: 4px;
+.button.secondary {
+  color: var(--primary-text-color);
+  background-color: var(--primary-bt-color);
 }
